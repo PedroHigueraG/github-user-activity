@@ -1,5 +1,7 @@
 # GitHub User Activity CLI
 
+A practice project from [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+
 A simple Node.js command-line tool to fetch and display GitHub user activity using the GitHub API.
 
 ## Features
