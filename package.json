@@ -1,0 +1,17 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "A simple project to fetch and display GitHub user activity using the GitHub API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "github-activity": "index.js"
+  },
+  "keywords": ["github", "api", "user activity"],
+  "author": "Pedro Higuera",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3"
+}
